@@ -3,7 +3,7 @@
 This is my (very infant) attempt at getting [edx](https://github.com/edx/edx-platform) running in a local fig development envrionment. 
 
 ## Contributions
-Yes, please! As I'm wading through both fig and edx without any experience, any help us much appreaciated.
+Yes, please! As I'm wading through both fig and edx without any experience, any help is much appreciated.
 
 ## First, get Fig
 Before you start, get fig up and running on your machine: http://www.fig.sh/install.html
