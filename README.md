@@ -1,4 +1,4 @@
-#fig-yml
+#fig-edx
 
 This is my (very infant) attempt at getting [edx](https://github.com/edx/edx-platform) running in a local fig development envrionment. 
 
